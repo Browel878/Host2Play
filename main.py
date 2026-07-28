@@ -9,11 +9,10 @@ import tempfile
 from xvfbwrapper import Xvfb
 from DrissionPage import ChromiumPage, ChromiumOptions
 
-# ==============================================================================
 # 配置区域
-# ==============================================================================
 RENEW_URLS = [
-    "https://host2play.gratis/server/renew?i=xxxxx-xxxx-xxxxxxxx-xxxxxxxxxxx",
+    "https://host2play.gratis/server/renew?i=3f0fd5f7-d6d9-4ce6-9bb8-5f6280be1287",
+    # 添加更多链接
 ]
 
 CACHE_DIR = "captcha_solver"
