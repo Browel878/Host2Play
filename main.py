@@ -13,7 +13,7 @@ from DrissionPage import ChromiumPage, ChromiumOptions
 # 配置区域
 # ==============================================================================
 RENEW_URLS = [
-    "https://host2play.gratis/server/renew?i=2fe83af5-a106-404b-b49c-0dd3a35757f7",
+    "https://host2play.gratis/server/renew?i=xxxxx-xxxx-xxxxxxxx-xxxxxxxxxxx",
 ]
 
 CACHE_DIR = "captcha_solver"
