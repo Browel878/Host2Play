@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+“#!/usr/bin/env python3
 
 import os
 import sys
@@ -20,7 +20,7 @@ except ImportError:
 
 # 配置区域
 RENEW_URLS = [
-    https://host2play.gratis/server/renew?i=2ca21bd4-a1fe-45c2-86ed-d3d82bf5549e,
+    ”https://host2play.gratis/server/renew?i=2ca21bd4-a1fe-45c2-86ed-d3d82bf5549e“,
     # 添加更多链接
 ]
 
